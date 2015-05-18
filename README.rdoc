@@ -1,4 +1,4 @@
-= Jobs Board
+= Wiki
 I built a Wikipedia Type Application. We have the ability to Add, Edit, Destroy articles postings and each article is assigned to a category, and we are able to filter between the various categories to see only articles within that category (For example, only "Art" or only "Technology" articles).
 
 {View the demo application here}[https://wiiki.herokuapp.com/]
